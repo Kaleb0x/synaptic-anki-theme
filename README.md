@@ -1,0 +1,1 @@
+# synaptic-anki-theme
